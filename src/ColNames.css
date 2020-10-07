@@ -1,0 +1,10 @@
+.grid-item{
+    color: grey;
+    text-transform: uppercase;
+    margin-right: 200px;
+    font-weight: bolder;
+}
+
+.grid-container{
+    margin: 20px;
+}
