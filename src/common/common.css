@@ -1,0 +1,14 @@
+.custom-btn{
+    color: white;
+    text-transform: uppercase;
+    margin: 20px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: none;
+
+}
+
+.component-body-container{
+    margin: 20px;
+}
