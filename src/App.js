@@ -6,6 +6,7 @@ import './ColNames.css'
 
 
 class App extends Component {
+
   render() {
       let demoArray = [
         {
@@ -40,9 +41,7 @@ class App extends Component {
               )}
             </div>
           </div>
-          )}
-    
+          )}  
 }
-
 
 export default App;
